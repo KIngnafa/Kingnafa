@@ -1,10 +1,10 @@
-<h1>Hi, I'm Olayinka! <br/><a href="https://github.com/KIngnafa">, <a href="https://www.linkedin.com/in/olayinka-rasheed-4a72b9188/">Cloud/DevOps Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Olayinka! <br/><a href="https://github.com/KIngnafa"> <a href="https://www.linkedin.com/in/olayinka-rasheed-4a72b9188/">Cloud/DevOps Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>RHEL9-STIG-compliance-lab</b>
   - [RHEL9 STIG Hardening](https://github.com/KIngnafa/rhel9-stig-compliance-lab)
-  - [RHEL9 STIG Hardening](https://docs.google.com/document/d/1EFSAkBOZ7geQekXwisGnjG68mBQH5NNyo4S7KewH3dA/edit?usp=sharing)
+  - [RHEL9 STIG Hardening documentation](https://docs.google.com/document/d/1EFSAkBOZ7geQekXwisGnjG68mBQH5NNyo4S7KewH3dA/edit?usp=sharing)
 - <b>EC2 Patching with Ansible</b>
   - [Ansible Patching](https://github.com/KIngnafa/ansible_ec2_patching)
   - [Ansible Patching Documentation](https://docs.google.com/document/d/1JGDdIJH41q833QiyOCt-RAWJZckPD1rlASJS5vWoQaM/edit?usp=sharing)
