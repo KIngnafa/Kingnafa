@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olayinka! <br/><a href="https://github.com/KIngnafa"> <a href="https://www.linkedin.com/in/olayinka-rasheed-4a72b9188/">Cloud/DevOps Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Olayinka! <br/><a href="https://github.com/KIngnafa"> <a href="https://www.linkedin.com/in/olayinka-rasheed-4a72b9188/">Cloud/DevOps Engineer Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
@@ -14,6 +14,18 @@
   - [IAM Cloudformation documentation](https://docs.google.com/document/d/1PDIxxMz_pHNn7Aj320jGwUzHBW3VmoLwIKP7fCMAGNY/edit?usp=sharing)
 - <b>Active Directory Lab & Automation<b>
   - [Active Directory Lab Documentation](https://docs.google.com/document/d/1lrm-80phg06olyPakG0HJ2o2Y8fthhJOZlP8Xr9P6lU/edit?usp=sharing)
+
+## 📜 Certifications
+
+- **AWS Certified Solutions Architect**  
+- **AWS Certified DevOps Engineer** 
+- **CompTIA Security+**
+- **CompTIA Cloud+**
+- **CompTIA Network+**
+- **Professional Scrum Master (PSM 1)**
+- **Microsoft Azure Administrator Associate (AZ-104)**
+
+
 <!--
 **joshmadakor1/joshmadakile) appears on your GitHub profile.
 
