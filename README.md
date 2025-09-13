@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olayinka! <br/><a href="https://github.com/KIngnafa"> <a href="https://www.linkedin.com/in/olayinka-rasheed-4a72b9188/">Cloud/DevOps Engineer Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Olayinka! <br/><a href="https://github.com/KIngnafa"> <a href="https://www.linkedin.com/in/olayinka-rasheed-4a72b9188/">Cloud/DevOps Engineer Professional</a> </h1>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
